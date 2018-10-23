@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DUI exchange 
 
 You can use the [editor on GitHub](https://github.com/isky2222/DUI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
